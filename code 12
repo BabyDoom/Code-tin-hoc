@@ -14,7 +14,7 @@
     <p><b>B<sub>3</sub></b>: Kết Luận <br>
     + Nếu <b>delta</b> &lt; 0: Phương trình <i>vô nghiệm</i><br>
     + Nếu <b>delta</b> = 0: Phương trình có <i>nghiệm duy nhất</i><br>
-    + Nếu <b>delta</b> &lt; 0: Phương trình có hai <i>nghiệm phân biệt</i><br>
+    + Nếu <b>delta</b> &gt; 0: Phương trình có hai <i>nghiệm phân biệt</i><br>
     </p>
   </body>
 </html>
